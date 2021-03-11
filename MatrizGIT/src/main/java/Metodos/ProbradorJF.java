@@ -214,7 +214,7 @@ public class ProbradorJF extends javax.swing.JFrame {
         
         miData = new Metodos.mVentas();
         miData.setLlenar();
-        JOptionPane.showMessageDialog(null, "Matriz creada con exito", "", INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null, "¡Matriz creada con exito!", "", INFORMATION_MESSAGE);
         jTextPane1.setText(miData.Info());
         jLabel1.setVisible(false);
     }//GEN-LAST:event_jButton1ActionPerformed
