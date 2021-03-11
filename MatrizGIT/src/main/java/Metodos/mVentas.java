@@ -40,7 +40,7 @@ public class mVentas {
 
     public void getMostrarV() {
         int i, j;
-        String info = "La matriz de ventas ess : \n";
+        String info = "La matriz de ventas esssssssssss : \n";
         for (i = 0; i < nv; i++) {
             for (j = 0; j < nm; j++) {
                 info += "  " + ventas[i][j] + "  ";
