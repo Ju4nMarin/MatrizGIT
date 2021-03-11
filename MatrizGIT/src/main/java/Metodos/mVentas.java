@@ -10,7 +10,7 @@ import static javax.swing.JOptionPane.PLAIN_MESSAGE;
 
 /**
  *
- * @author JUAN MARIN
+ * @author JUAN MARIN prueba 2
  */
 public class mVentas {
 

@@ -268,7 +268,7 @@ public class ProbradorJF extends javax.swing.JFrame {
                 miData.getVentasdeUNVendedor(vend);
             } else {
                 JOptionPane.showMessageDialog(null,
-                        "Esta posición del vendedor es invalida!", "¡INTRODUZCA UNA POSICION VALIDA!", WARNING_MESSAGE);
+                        "¡Esta posición del vendedor es invalida!", "¡INTRODUZCA UNA POSICION VALIDA!", WARNING_MESSAGE);
             }
             
         }
