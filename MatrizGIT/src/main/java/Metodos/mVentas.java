@@ -10,7 +10,7 @@ import static javax.swing.JOptionPane.PLAIN_MESSAGE;
 
 /**
  *
- * @author Ruben
+ * @author JUAN MARIN
  */
 public class mVentas {
 
@@ -40,7 +40,7 @@ public class mVentas {
 
     public void getMostrarV() {
         int i, j;
-        String info = "La matriz de ventas esssssssssss : \n";
+        String info = "La matriz de ventas es: \n";
         for (i = 0; i < nv; i++) {
             for (j = 0; j < nm; j++) {
                 info += "  " + ventas[i][j] + "  ";
